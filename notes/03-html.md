@@ -95,3 +95,8 @@ class="sticky-top" it will stick to the top of the screen as long as it is withi
 if you want the top bar of the website to stay, put it above the header
 
 when importing fonts or other styles, put them before bootstraps so that it can reference them
+
+
+in html if there aren't '' on ${thing} it will look for a variable. but if you '${thing}' it will look for a string
+
+marquee allows elements to move
