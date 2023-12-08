@@ -6,3 +6,6 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
+
+
+I really enjoyed building out the webpages! It was a lot of fun to come up with what the website should be about & I LOVE styling! I had a blast putting title tags on stuff to just add some subtle bit of fun into it. The container, row, column order is a little difficult to work with but im making improvements.
