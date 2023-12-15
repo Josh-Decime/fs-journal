@@ -100,3 +100,8 @@ when importing fonts or other styles, put them before bootstraps so that it can 
 in html if there aren't '' on ${thing} it will look for a variable. but if you '${thing}' it will look for a string
 
 marquee allows elements to move
+
+your can assign the role of button
+in class you can make selectable
+can add onclick to <P>
+
