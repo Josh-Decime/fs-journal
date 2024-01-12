@@ -88,3 +88,9 @@ lol jk nvm it doesn't work
 there is a drop down for changes under commit button 
 
 token, user info & accounts
+
+certification.gte    greater than equal to
+certification.lte    less than equal to
+
+   split API data to multiple pages
+to paginate data get good with array slicing 
