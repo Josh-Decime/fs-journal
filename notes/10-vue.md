@@ -15,3 +15,11 @@ target blank to make a tag open in a new tab
 {...AppState.account}     ... is "spread operator"  makes it so values in AppState.account aren't being changes, it is only giving us the data inside 
 
 { immediate : true }  will run on page load, can be put into a watch so you don't have to do onMounted as well
+
+
+*********************
+you can call functions in the AuthService after you have logged in
+
+in router
+authSettled is the best thing, cant believe they didn't teach us that sooner
+

@@ -81,3 +81,19 @@ lets the code know it cant be used on its own, its meant to extend another class
 what is `abstract` preventing?
 
 when making the save favorite recipes, return the recipe with the collaborator Id attached to it
+
+in the repository 
+blue, new 
+green, the whole thing
+
+public Type FunctionNam(blue dataId)
+{the function with sql, db.Query, map, Id of what your missing = id of what you have},new{dataId}.(FirstOrDefault or ToList)
+
+public Type FunctionNam(green dataId)
+{the function with sql, db.Query, map, Id of what your missing = id of what you have},dataId).(FirstOrDefault or ToList)
+
+
+what you are missing, then what you have
+
+code should document itself!!! be very verbose 
+vague code wastes time
