@@ -23,3 +23,8 @@ you can call functions in the AuthService after you have logged in
 in router
 authSettled is the best thing, cant believe they didn't teach us that sooner
 
+
+
+
+Vue cant be deployed without building it first
+when you want to deploy, npm run build

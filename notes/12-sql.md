@@ -49,3 +49,5 @@ can't have duplicate columns in a VIEW
 
 you can where a VIEW, but you have to make changes to the SELECT because it cant have duplicate columns
 
+
+
